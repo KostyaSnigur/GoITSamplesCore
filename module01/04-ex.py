@@ -7,7 +7,7 @@ foo = int(input("Enter a number: "))
 #     foo = temp * foo
 # else:
 #     temp = foo
-#     foo = (foo + baz) / 2
+#     foo = (foo + baz) / 25
 #     baz = temp * baz
 
 if baz < foo:
